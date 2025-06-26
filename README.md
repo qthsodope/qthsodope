@@ -1,7 +1,8 @@
 # 🔥 Hi, I'm Nguyen Quoc Thien
 
 🎓 I'm a 20-year-old Computer Science undergraduate from **Can Tho City, Vietnam**, with a strong passion for **Artificial Intelligence**, especially in **Natural Language Processing (NLP)** and **Large Language Models (LLMs)**.  
-🚀 I'm actively learning, building, and exploring AI technologies to become an AI Engineer with real-world impact.
+🚀 I'm actively learning, building, and exploring AI technologies to become an AI Engineer with real-world impact.  
+👨‍💻 I'm also the team leader of **Codeaholic65L1**, a dynamic group of aspiring developers and AI enthusiasts driven by curiosity, creativity, and code.
 
 ---
 
@@ -39,6 +40,7 @@
 ## 📫 Keep in touch
 
 - 📧 Email: quocthien01082005@gmail.com  
+- 📧 Team Email: codeaholic65l1@gmail.com  
 - 🌐 Facebook: [Click here](https://www.facebook.com/qthsodope/)
 
 > _"Stay silent until you make it 💥"_ – **RPT MCK**
