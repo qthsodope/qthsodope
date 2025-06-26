@@ -16,6 +16,15 @@
 ### 🧰 Frameworks, Libraries & Tools  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="30"/>
 
+### ☁️ Deployment & MLOps  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="30"/> <img src="https://cdn.simpleicons.org/github/181717" width="30"/>
+
+- Deployed AI/ML applications on **Streamlit Cloud**, **Hugging Face Spaces**, **Heroku**, and **Netlify**
+- Built and served models using **Flask**, **FastAPI**, **Streamlit**, and **Gradio**
+- Created user interfaces and APIs; optimized models for web deployment
+- **Dockerized applications** to ensure consistent development and deployment environments
+- Managed source code and deployment workflows via **GitHub**
+
 ---
 
 ## 🎯 Goals
